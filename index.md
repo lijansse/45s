@@ -99,7 +99,8 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://raw.githubusercontent.com/lijansse/45s/master/assets/images/Screenshot%202024-04-26%20172102.png)
+
 
 ### Large image
 
