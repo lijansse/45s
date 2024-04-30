@@ -2,6 +2,14 @@
 layout: default
 ---
 
+I'm a 3rd year mechanical engineering major at California Polytechnic University. I enjoy studying fluid mechanics, and lately I've taken a interest in coding. 
+Some of my favorite classes that I've taken that might be interesting are:
+*   ME540 _Compressible Flow_
+*   ME542 _Viscous Flow_
+*   ME470 _Special Advanced Topics (Classical Fluid Mechanic Problems)_
+*   ME418 _Mechanical Control Systems_
+*   CSC101 _Python_
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
