@@ -10,18 +10,22 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Benji Sucks at Coding
+# FEA Simulation Projects
 
-Liam Janssens New Websites
-[![Tacoma](https://img.youtube.com/vi/ZCMPXytTD2w/0.jpg)](https://www.youtube.com/watch?v=ZCMPXytTD2w)
+## Ansys Discovery + Fluent CFD Simulation
 
-## Header 2
+For my senior design project, we were interested with the in-cylinder flow of a diesel engine cylinder + piston system. Our group of 4 was interested in dimpling the piston crown surface in order to optimize the fuel/air mixture, therefore increasing efficiency and decreasing emissions. The unique in-cylinder flow characteristics were challenging as they would be impossible to experimentally model.
+Here is a video of our preliminary CFD testing of the flow characteristics of a diesel piston system at the crank angle of top dead center. 
+
+
+## Structural FEA Analysis (Solidworks)
+
+For our design class, we constructed a scooter. It was first necessary to conduct preliminary analysis so we could spec the appropriate tube size and fastening materials.
+
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
