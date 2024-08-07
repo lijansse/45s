@@ -33,10 +33,7 @@ For my advanced vibrations class, our project was to write the labs for the unde
 
 BEACoN, a research program on campus allowed me to conduct research with 2 of my peers under fluid mechanic professor Hans Mayer. We focused primarily on developing microfabrication techniques for thin film microfluidic devices.
 
-<!doctype html>
-<html>
-<img src=https://raw.githubusercontent.com/lijansse/45s/master/assets/images/Cleanroom alt="Description" width="300" height="300">
-<html>
+![Octocat](https://raw.githubusercontent.com/lijansse/45s/master/assets/images/Cleanroom)
 
 Our research abstract was:
 >As a continuation of an ongoing NSF-ERI project focused on the study of soap film frame retraction, the microfabrication team was responsible for developing frames with patterned metallic edges. Previous iterations of the project utilized wires for soap film frames, however, the team aims to use microfabrication techniques to produce higher-quality patterned frames that will produce more controlled results. In addition, the team was tasked to create a detailed production manual for these devices for future student researchers to follow. Once these steps are perfected, these frames will be used to study the thin film refraction of soap films.
