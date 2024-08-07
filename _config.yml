@@ -3,6 +3,3 @@ description: My Digital CV
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
-markdown: kramdown
-kramdown:
-  input: GFM
