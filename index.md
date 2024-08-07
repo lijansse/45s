@@ -32,6 +32,7 @@ For my advanced vibrations class, our project was to write the labs for the unde
 ## BEACoN Research Scholar
 
 BEACoN, a research program on campus allowed me to conduct research with 2 of my peers under fluid mechanic professor Hans Mayer. We focused primarily on developing microfabrication techniques for thin film microfluidic devices.
+
 <img src=https://raw.githubusercontent.com/lijansse/45s/master/assets/images/Cleanroom alt="Description" width="300" height="300">
 
 Our research abstract was:
