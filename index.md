@@ -2,8 +2,7 @@
 layout: default
 ---
 Hi, my name is Liam Janssen and I'm a 3rd year mechanical engineering major at California Polytechnic University. I enjoy studying fluid mechanics, and lately I've taken a interest in coding.
-
-<img src=https://raw.githubusercontent.com/lijansse/45s/master/assets/images/profile.jpg alt="Description" width="230" height="300">
+![Octocat](https://raw.githubusercontent.com/lijansse/45s/master/assets/images/profile.jpg)
 
 Some of my favorite classes that I've taken that might be interesting are:
 
